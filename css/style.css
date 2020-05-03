@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(234, 229, 235);
+}
+
+.form {
+  max-width: 400px;
+}
+  .wrapper {
+    margin: 15px auto;
+    max-width: 1400px;
+  }
+  
+  .container-calendar {
+    padding: 15px;
+    max-width: 500px;
+    margin: 0 auto;
+    overflow: auto;
+  }
+  
